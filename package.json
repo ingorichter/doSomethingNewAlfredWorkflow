@@ -1,0 +1,28 @@
+{
+  "name": "whatsnewscraper",
+  "version": "1.0.0",
+  "description": "Puppeteer Script to download the contents from https://whats.new/ into a local json file",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ingorichter/doSomethingNewAlfredWorkflow.git"
+  },
+  "keywords": [
+    "puppeteer",
+    "scrape",
+    "remotecontrol",
+    "datacollection"
+  ],
+  "author": "Ingo Richter <ingo.richter+github@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ingorichter/doSomethingNewAlfredWorkflow/issues"
+  },
+  "homepage": "https://github.com/ingorichter/doSomethingNewAlfredWorkflow#readme",
+  "dependencies": {
+    "puppeteer": "^5.2.1"
+  }
+}
